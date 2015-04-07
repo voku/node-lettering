@@ -1,0 +1,30 @@
+{
+  "name": "node-lettering",
+  "version": "0.1.0",
+  "description": "wrap every letter from a string with a unique 'span'-tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/voku/node-lettering.git"
+  },
+  "keywords": [
+    "lettering"
+  ],
+  "author": "Lars Moelleken <lars@moelleken.org> (http://moelleken.org/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/voku/node-lettering/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/voku/node-lettering/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "chai": "~1.8.1"
+  }
+}
