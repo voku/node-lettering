@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/voku/node-lettering.svg?branch=master)](https://travis-ci.org/voku/node-lettering)
 
-node-lettering - this is only a demo for http://voku.github.io/OPEN-SOURCE
+=========
+only a demo for http://voku.github.io/OPEN-SOURCE
 =========
 
 A minimal node module providing utility methods to wrap every letter from a
